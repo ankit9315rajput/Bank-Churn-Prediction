@@ -17,15 +17,6 @@ This project predicts bank customer churn (whether a customer will leave the ban
 
 **Best Model Accuracy:** ~78.57%
 
----
-
-## 📂 Repository Structure
-
-├── bank-churn-prediction.ipynb # Main Jupyter Notebook
-├── data/ # Dataset (not included, add here)
-├── README.md # Project documentation
-
----
 
 ## ⚙️ Installation
 
